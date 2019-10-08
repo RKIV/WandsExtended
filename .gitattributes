@@ -2,3 +2,6 @@ Content/InfinityBladeGrassLands/** filter=lfs diff=lfs merge=lfs -text
 Content/WandsCPP/Maps/DepartmentOfMysteries.umap filter=lfs diff=lfs merge=lfs -text
 Content/WandsCPP/Maps/DepartmentOfMysteries_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
 Content/StarterContent/** filter=lfs diff=lfs merge=lfs -text
+Content/FXVarietyPack/** filter=lfs diff=lfs merge=lfs -text
+Content/InfinityBladeEffects/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonGideon/** filter=lfs diff=lfs merge=lfs -text
